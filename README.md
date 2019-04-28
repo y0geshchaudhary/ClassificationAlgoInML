@@ -1,5 +1,5 @@
 # ClassificationAlgoInML
-This is a project where I wrote various classification algorithm from scratch and compared their accuracy with others. Also I have used techniques like bagging and boosting to improve the accuracy. In SVM we used binary classifier to create a multinomial classifier.
+This is a project where I work on various classification algorithm from scratch and compared their accuracy with others. Also I have used techniques like bagging and boosting to improve the accuracy. In SVM we used binary classifier to create a multinomial classifier.
 
 
 - I have used below libraries
